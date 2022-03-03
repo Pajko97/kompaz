@@ -1,25 +1,20 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
-import Navbar from '../components/Navbar'
-import styles from '../styles/Home.module.css'
-export default function Home() {
+import Footer from '../../components/Footer'
+import Navbar from '../../components/Navbar'
+import styles from '../../styles/Services.module.css'
+
+export default function Services() {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
         <Navbar/>
         <div className={styles.header_content}>
           <img src="/assets/images/logo_star.svg" layout='fill' alt="Kompas logo"/>
-          <h1 className={styles.heading}>Kompas International Travel Group</h1>
+          <h1 className={styles.heading}>Services and Activities</h1>
           <p className={styles.subheading}>Companies and offices around the world give us the advantage of having in-depth knowledge of local particularities at top destinations, and also allow us to co-create industry trends.</p>
         </div>
-      </div>
-
-      <div className={styles.images}>
-        <img src="/assets/images/slika_1.png" layout='fill' alt="Destination image"/>
-        <img src="/assets/images/slika_2.png" layout='fill' alt="Destination image"/>
-        <img src="/assets/images/slika_3.png" layout='fill' alt="Destination image"/>
-        <img src="/assets/images/slika_4.png" layout='fill' alt="Destination image"/>
       </div>
 
       <div className={styles.services}>
@@ -84,6 +79,7 @@ export default function Home() {
 
         </div>  
       </div>
+      <Footer/>
     </div>
   )
 }

@@ -1,0 +1,1358 @@
+{
+    "adriatic_cruises" : [
+        {
+            "cruise_name" : "M204 NEW Supreme Split return cruise",
+            "cruise_id" : 1,
+            "short_description" : "FROM SPLIT TO PLOČE, MLJET, DUBROVNIK, KOTOR, CAVTAT, KORČULA, BIŠEVO, VIS, HVAR AND SPLIT",
+            "features" : {
+                "included" : "7 nights cruise from Split to Kotor and back to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+                "sightseeing" : ["City tours of Mostar (with lunch), Dubrovnik, Kotor, Korčula, Vis, Hvar and Split#Entrance fees to the Franciscan Monastery’s Pharmacy, Diocletian’s Palace and St Tryphon’s Cathedral#Lovćen/Njeguši/Budva Excursion – ride by bus, snack in Njeguši (smoked ham and cheese, brandy and wine)"],
+                "supplements_optional": ["Entrance to Mljet National Park: up to 30 USD per person (depending on the season) to be paid on the spot. Guide free of charge.#Entrance to Blue Cave to be paid on the spot – up to 16 USD per person (depending on the season)"]
+            },
+            "itinerary" : [
+                {
+                    "day_headline": "Day 1 SPLIT ARRIVAL, Saturday (WR, D)",
+                    "day_summary": "You will be transferred from Split airport or your Split hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome reception followed by dinner this evening."
+                },
+                {
+                    "day_headline" : "Day 2 SPLIT – PLOČE (Mostar excursion), Sunday (B, L, CD)",
+                    "day_summary" : "with lunch included. Mostar is the city were east and west meet. Built alongside the Neretva River is known by all thanks to the image of its beautiful “Old Bridge” (Stari Most) which is the heart and symbol of the city. Since 2005 the “Old Bridge”, as well as the old city of Mostar have been inscribed as a World Heritage by UNESCO. Walkthrough the streets, visit the Turkish house and the mosque. Tonight, enjoy Captain’s dinner and overnight in Ploče."
+                },
+                {
+                    "day_headline": "Day 3 PLOČE – MLJET – DUBROVNIK, Monday (B, L)",
+                    "day_summary": "In the morning head further south to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park. Set sail to Dubrovnik with swimming stop and relax, if weather permits, with lunch on board. In the late afternoon we arrive in Dubrovnik the “Pearl of the Adriatic”, to take a guided tour of the historical centre of city which is listed as a UNESCO World Heritage site including visits to the Franciscan Monastery’s Pharmacy. Overnight in Dubrovnik."
+                },
+                {
+                    "day_headline": "Day 4 DUBROVNIK – KOTOR (Montenegro), Tuesday (B, L, T)",
+                    "day_summary": "In the morning we set sail to Kotor. After lunch on board, we are going to visit Lovćen Mountain, Njeguši Village and Budva. Encounter Montenegro’s rich culture, historical heritage and natural beauty as you travel by bus up the serpentine Lovćen Hills. A beautiful view of Kotor Bay and lovely mountain scenery accompany you en route to Njeguši, where you will visit the village smokehouse. Stop for a snack of smoked ham and cheese, brandy and wine—all local specialties. Then, head down the mountains towards the city of Budva—believed to be one of the oldest settlements on the Adriatic coast. It is more than 2,000 years old. After panoramic stop above Budva you will drive back to Kotor to explore the city that is known as the jewel of Montenegro. Your guide will take you on a walking tour that will include a visit to St Tryphon’s Cathedral and you will see the Orthodox Church of St Luka from the outside. Your evening is free in Kotor."
+                },
+                {
+                    "day_headline": "Day 5 KOTOR – CAVTAT – KORČULA, Wednesday (B, L)",
+                    "day_summary": "In the morning after breakfast, we head to Cavtat. As we are traveling from one country to another, there will be some formalities at the border. Continue our cruise with swim stop on way to Korčula island, best known as the birthplace of Marco Polo. Afternoon arrival in Korčula followed by a guided walking tour of this enchanting town surrounded by walls, which is one of the best-preserved medieval cities in the Mediterranean. Overnight in Korčula where you can enjoy a gourmet experience at the multiple restaurants and bars."
+                },
+                {
+                    "day_headline": "Day 6 KORČULA – BIŠEVO – VIS, Thursday (B, L)",
+                    "day_summary": "Early in the morning we sail to small island Biševo to visit the Blue Cave, a magnificent natural phenomenon. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Cruise towards the island of Vis once a strategic naval Yugoslav base and restricted to the public. Due to this isolation, Vis has a special charm – “the Mediterranean as it once was” making it really interesting to visit. Try some exquisite wine sorts in one of the Vis traditional wineries. If interested, visit the remains of the Roman thermal place, City Museum or simply take a walk enjoying the views. Overnight in the port of Vis."
+                },
+                {
+                    "day_headline": "Day 7 VIS – HVAR – SPLIT, Friday (B, L)",
+                    "day_summary": "In the morning head further towards Hvar, the longest and sunniest island in the Adriatic, with a swim stop and lunch on board. Afternoon arrival in Hvar town followed by a tour of the town – the Renaissance cathedral with its original tower, and the oldest community theatre in Europe founded in 1612. After the tour set sail towards Split. In the afternoon join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. Your evening is free in Split."
+                },
+                {
+                    "day_headline": "Day 8 SPLIT DEPARTURE, Saturday (B)",
+                    "day_summary": "After breakfast it is time to disembark. You will be transferred to Split airport or your Split hotel."
+                },
+                {
+                    "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+                }
+            ],
+            "dates_pricing" : [
+                {
+                    "name" : "STELLA MARIS",
+                    "dates" : {
+                        "high_season" : ["06/04/2022","06/11/2022", "06/18/2022","06/25/2022", "07/02/2022", "08/27/2022", "09/03/2022","09/10/2022","09/17/2022","09/24/2022"]
+                    },
+                    "prices" : [
+                            {
+                                "cabin_name" : "LOWER DECK CABIN",
+                                "high_season" : 2775
+                            },
+                            {
+                                "cabin_name" : "MAIN DECK CABIN",
+                                "high_season" : 2995
+                            }
+                    ]
+                    
+                }
+            ],
+        
+            "map" : "https://kompas.net/images/adriatic_cruises/M204/map.png",
+            "gallery" : ["https://kompas.net/images/adriatic_cruises/M204/1 (1).png","https://kompas.net/images/adriatic_cruises/M204/1 (2).png","https://kompas.net/images/adriatic_cruises/M204/1 (3).png","https://kompas.net/images/adriatic_cruises/M204/1 (4).png","https://kompas.net/images/adriatic_cruises/M204/1 (5).png"]
+        },
+{
+    "cruise_name" : "MINI ROUTE K240 SD",
+    "cruise_id" : 2,
+    "short_description" : "4-day mini cruise from Split to Hvar, Mljet and Dubrovnik",
+    "features" : {
+        "included" : "3 nights cruise from Split to Dubrovnik#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Hvar and Dubrovnik#Guided tour and entrance to Mljet National Park"]
+    },
+    "itinerary" : [
+        {
+            "day_headline" : "Day 1 SPLIT ARRIVAL, Tuesday",
+            "day_summary" : "You will be transferred from Split airport or your Split hotel to harbour, where embarkation begins at 6:00 PM."
+        },
+        {
+            "day_headline": "Day 2 SPLIT – HVAR Wednesday (B, L)",
+            "day_summary": "In the morning set sail to Hvar, one of the most popular islands in the Adriatic. A sightseeing tour of Hvar town shows you the first public theatre in Europe and many more historical sites. Spend evening and night in Hvar. Note: Due to the limited capacity of the Hvar harbour (during peak season in July and August) port of call can be substituted for Stari Grad/Jelsa. In that case transfer by bus will be organized to and from Hvar."
+        },
+        {
+            "day_headline": "Day 3 HVAR – MLJET, Thursday (B, L, CD)",
+            "day_summary": "In the morning head further south to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park and enjoy the boat ride to the St Mary Isle to visit an ancient Benedictine monastery, an old abbey and a Church dating back to the 12th Century. Alternatively, you can rent bicycles, scooters, or kayaks to explore the National Park or island on your own. Tonight enjoy Captain’s dinner and overnight in port of Pomena."
+        },
+        {
+            "day_headline": "Day 4 MLJET – DUBROVNIK, Friday (B, L)",
+            "day_summary": "In the morning sail to Dubrovnik, the “Pearl of the Adriatic”, a UNESCO World Heritage site. Upon arrival in Dubrovnik, you will enjoy a guided tour of the magnificent Old Town with a panoramic bus ride above the Old Town. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After city tour, you will be left on your own to explore the city, visit City Walls, the Franciscan Monastery with Europe’s second oldest pharmacy, the Rector’s Palace and the Cathedral, take a boat ride to Lokrum island or take the cable car to the top of the Mount Srđ. Overnight in Dubrovnik."
+        },
+        {
+            "day_headline": "Day 5 DUBROVNIK DEPARTURE, Saturday (B)",
+            "day_summary": "After breakfast it’s time to disembark. You will be transferred to Dubrovnik airport or your Dubrovnik hotel."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "EQUATOR, MY WAY",
+            "dates" : {
+                "low_season" : ["10/04/2022", "10/11/2022", "10/18/2022"],
+                "mid_season" : ["05/24,2022", "05/31/2022", "07/36/2022"],
+                "high_season" : ["06/07/2022","06/14/2022", "07/05/2022","07/12/2022","07/19/2022", "08/30/2022", "09/06/2022"]
+            },
+            "prices" : [
+                    {
+                        "cabin_name" : "LOWER DECK CABIN",
+                        "low_season" : 1310,
+                        "mid_season" : 1500,
+                        "high_season" : 1680
+                    },
+                    {
+                        "cabin_name" : "MAIN DECK CABIN",
+                        "low_season" : 1585,
+                        "mid_season" : 1785,
+                        "high_season" : 1970
+                    }
+            ]
+            
+        }
+    ],
+
+    "map" : "https://kompas.net/images/adriatic_cruises/K240SD/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K240SD/1 (5).png"]
+},
+{
+    "cruise_name" : "MINI ROUTE K240 DS",
+    "cruise_id" : 3,
+    "short_description" : "4-day mini cruise from Dubrovnik to Korčula, Makarska, Pučišća, Split",
+    "features" : {
+        "included" : "3 nights cruise from Dubrovnik to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#AArrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Korčula and Split#Wine tasting Korcula"]
+    },
+    "itinerary" : [
+        {
+            "day_headline" : "Day 1 DUBROVNIK ARRIVAL Saturday (WR, D)",
+            "day_summary" : "You will be transferred from Dubrovnik’s airport or your Dubrovnik’s hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+        },
+        {
+            "day_headline": "Day 2 DUBROVNIK – KORČULA (Wine tasting), Sunday (B, L, T)",
+            "day_summary": "Early in the morning we set sail for the island of Korčula, with swimming stop, if weather permits, in one of pristine bays, time to relax and lunch on board. Continue towards Korčula, the most preserved medieval town, thought to be the birthplace of the famous explorer Marco Polo. Take a walking tour of Korčula which takes you through its narrow, cobbled streets full of history and enjoy wine tasting in one of the local wine bars. Evening is free to explore the town on your own."
+        },
+        {
+            "day_headline": "Day 3 KORČULA – MAKARSKA, Monday (B, L)",
+            "day_summary": "In the morning we continue our adventure by sailing to town of Makarska, on the mainland, where we will spend the night. Makarska is one of the most popular tourist resort areas on Adriatic due to its long pebbly beaches and scenic mountains in the background, which creates a specific climate and picturesque views. After lunch on board, you will have free time to enjoy the therapeutic benefits of fresh sea air by walking through the green paths of St. Peter peninsula towards west and then further to the beach for a lovely 2 km long walk along the seaside promenade or to explore the streets and squares of Old Town behind the main promenade, which are abundant with galleries, souvenir shops, cafes, and restaurants. Overnight in port of Makarska."
+        },
+        {
+            "day_headline": "Day 4 MAKARSKA – PUČIŠĆA – SPLIT, Tuesday (B, L)",
+            "day_summary": "Our journey then continues towards Pučišća, situated on the island of Brač, village of the stone sculpture, where you can visit amazing stonemason school (optional). After visiting Pučišća set sail to Split with a stop along the way to swim and relax, if weather permits, with lunch on board. In the late afternoon we arrive at Split to spend the night. Arriving in Split, join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. After the city tour you can take your luggage from the cruise and disembark."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "EQUATOR, MY WAY",
+            "dates" : {
+                "low_season" : ["10/01/2022", "10/08/2022", "10/15/2022"],
+                "mid_season" : ["05/21,2022", "05/28/2022", "07/23/2022"],
+                "high_season" : ["06/04/2022","06/11/2022", "07/02/2022","07/09/2022","07/16/2022", "08/27/2022", "09/03/2022"]
+            },
+            "prices" : [
+                    {
+                        "cabin_name" : "LOWER DECK CABIN",
+                        "low_season" : 1065,
+                        "mid_season" : 1220,
+                        "high_season" : 1370
+                    },
+                    {
+                        "cabin_name" : "MAIN DECK CABIN",
+                        "low_season" : 1290,
+                        "mid_season" : 1455,
+                        "high_season" : 1605
+                    }
+            ]
+            
+        },
+
+        {
+            "name" : "MY WAY",
+            "dates" : {
+                "low_season" : ["05/07/2022", "05/14/2022", "10/01/2022", "10/08/2022", "10/15/2022"],
+                "mid_season" : ["May 21, July 23, 30, Aug 6, 13, 20 "],
+                "high_season" : ["June 25, July 16, Aug 27, September 3, 10"]
+            },
+            "prices" : [
+                    {
+                        "cabin_name" : "LOWER DECK CABIN",
+                        "low_season" : 1705,
+                        "mid_season" : 1945,
+                        "high_season" : 2160
+                    },
+                    {
+                        "cabin_name" : "MAIN DECK CABIN",
+                        "low_season" : 2040,
+                        "mid_season" : 2295,
+                        "high_season" : 2520
+                    }
+            ]
+            
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K240DS/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K240DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K240DS/1 (5).png"]
+},
+{
+    "cruise_name" : "K200 Split return cruise via Dubrovnik",
+    "cruise_id" : 4,
+    "short_description" : "8-day cruise from Split to Stari Grad, Hvar, Korcula, DUbrovnik, Mljet, Pucisca, Omis and return to Split",
+    "features" : {
+        "included" : "7 nights cruise from Split to Dubrovnik and back to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Split, Hvar, Korcula and Dubrovnik#Guided tour and entrance to Mljet National Park#Wine tasting in Korcula"]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 SPLIT ARRIVAL, Saturday (WR, D)",
+            "day_summary": "You will be transferred from Split’s airport or your Split hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+        },
+        {
+            "day_headline" : "Day 2 SPLIT – BOL – JELSA, Sunday (B, L)",
+            "day_summary" : "Morning sail towards Bol on Brač Island, you will discover one of the most beautiful beaches in the entire Mediterranean – “Zlatni Rat” (the Golden Horn), which is constantly changing direction due to the ocean currents with optional swim if weather permits. Return to the ship for lunch and set sail for Jelsa on the island of Hvar. One of the most picturesque towns on the island of Hvar; Jelsa is nestled in amongst hills dense with pine woods. The town quay extends all the way around the harbour with numerous laid moorings. Walk around the town to see old stone streets, squares, churches, and parks. Enjoy a coffee in the main square and soak up the Mediterranean atmosphere of this bustling town. Your evening is free to explore Jelsa on your own."
+        },
+        {
+            "day_headline": "Day 3 JELSA – KORČULA (Wine tasting), Monday (B, L, T)",
+            "day_summary": "Early in the morning we set sail for the island of Korčula, with swimming stop, if weather permits, in one of pristine bays, time to relax and lunch on board. Continue towards Korčula, the most preserved medieval town, thought to be the birthplace of the famous explorer Marco Polo. Take a walking tour of Korčula which takes you through its narrow, cobbled streets full of history and enjoy wine tasting in one of the local wine bars. Evening is free to explore the town on your own."
+        },
+        {
+            "day_headline": "Day 4 KORČULA – DUBROVNIK, Tuesday (B, L)",
+            "day_summary": "In the morning sail to Dubrovnik, the “Pearl of the Adriatic”, a UNESCO World Heritage site. Upon arrival in Dubrovnik, you will enjoy a guided tour of the magnificent Old Town with a panoramic bus ride above the Old Town. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After city tour, you will be left on your own to explore the city, visit City Walls, the Franciscan Monastery with Europe’s second oldest pharmacy, the Rector’s Palace, and the Cathedral, take a boat ride to Lokrum island or take the cable car to the top of the Mount Srđ. Overnight in Dubrovnik."
+        },
+        {
+            "day_headline": "Day 5 DUBROVNIK – MLJET, Wednesday (B, L, CD)",
+            "day_summary": "In the morning head further north to the Island of Mljet. Mljet National Park encompasses five types of forest, many species of birds, and two deep lakes, Veliko Jezero (Big Lake) and Malo Jezero (Small Lake). Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park. Alternatively, you can rent bicycles, scooters, or kayaks to explore the National Park or island on your own. Tonight, enjoy Captain’s dinner on board."
+        },
+        {
+            "day_headline": "Day 6 MLJET – HVAR, Thursday (B, L)",
+            "day_summary": "Take a break for a swim during your morning cruise. Continue sailing through lunch, arriving this afternoon in Hvar, a favourite holiday destination for international celebrities, but it’s also a charming seaside town with 8 centuries of architecture. On a walking tour visit the old town with the picturesque little streets and the first public theatre in Europe (older than Shakespeare’s theatre in the UK), the Franciscan Monastery and much more. Your evening is free in Hvar. You can explore more and dine on your own at one of the many restaurants in town."
+        },
+        {
+            "day_headline": "Day 7 HVAR – SPLIT, Friday (B, L)",
+            "day_summary": "Next, we head to our final port Split with a stop along the way to swim, cool off and relax, if weather permits, with lunch on board. In the late afternoon we arrive in Split to take a walking tour of the historic inner city takes us to the Palace of the Roman Emperor Diocletian, a UNESCO World Heritage Site. We see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle, and the Cathedral. Your evening is free in Split."
+        },
+        {
+            "day_headline": "Day 8 SPLIT DEPARTURE, Saturday (B)",
+            "day_summary": "After breakfast it is time to disembark. You will be transferred to Split airport or your Split hotel."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "DESIRE",
+            "dates" : {
+                "low_season" : ["05/07/2022","05/14/2022","10/01/2022", "10/08/2022", "10/15/2022"],
+                "mid_season" : ["05/21/2022", "07/23/2022", "07/30/2022","08/06/2022","08/13/2022","08/20/2022"],
+                "high_season" : ["06/25/2022","07/16/2022", "08/27/2022","09/03/2022","09/10/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1705,
+                    "mid_season" : 1945,
+                    "high_season" : 2160
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2295,
+                    "high_season" : 2520
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2160,
+                    "mid_season" : 2415,
+                    "high_season" : 2640
+                }
+                ,
+                {
+                    "cabin_name" : "SUN DECK CABIN",
+                    "low_season" : 2280,
+                    "mid_season" : 2535,
+                    "high_season" : 2760
+                }
+            ]
+            
+        },
+        {
+            "name" : "MY WAY",
+            "dates" : {
+                "low_season" : ["05/07/2022","05/14/2022"],
+                "mid_season" : ["08/13/2022"],
+                "high_season" : ["09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                }
+                ,
+                {
+                    "cabin_name" : "SUN DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+            
+        },
+        {
+            "name" : "ARCA",
+            "dates" : {
+                "low_season" : ["05/07/2022","05/14/2022"],
+                "mid_season" : ["05/21/2022", "05/28/2022", "07/23/2022", "07/30/2022"],
+                "high_season" : ["06/04/2022","06/18/2022","06/25/2022","07/02/2022","07/09/2022", "08/27/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+            
+        },
+        {
+            "name" : "PRESTIGE",
+            "dates" : {
+                "low_season" : ["05/07/2022"],
+                "mid_season" : ["05/28/2022", "08/06/2022", "09/24/2022"],
+                "high_season" : ["06/04/2022","06/11/2022","06/18/2022","06/25/2022","07/16/2022","09/03/2022","09/10/2022","09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+            
+        },
+        {
+            "name" : "EQUATOR",
+            "dates" : {
+                "low_season" : ["05/07/2022", "10/01/2022"],
+                "mid_season" : ["08/06/2022", "08/13/2022", "09/24/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160
+                }
+            ]
+            
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K200/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200/1 (1).png","https://kompas.net/images/adriatic_cruises/K200/1 (2).png","https://kompas.net/images/adriatic_cruises/K200/1 (3).png","https://kompas.net/images/adriatic_cruises/K200/1 (4).png","https://kompas.net/images/adriatic_cruises/K200/1 (5).png"]
+},
+{
+    "cruise_name" : "K210 Split return cruise via Zadar",
+    "cruise_id" : 5,
+    "short_description" : "8-day cruise from from Split to np Krka, Sibenik, Zadar, np Kornati, Primošten, Vis, Biševo, Hvar, Stari Grad, Bol and return to Split",
+    "features" : {
+        "included" : "7 nights cruise from Split to Zadar and back to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 3 courses and salad bar# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Sibenik, Zadar, Vis, Hvar and Split#Guided tour and entrance to Krka National Park#Wine Tasting in Bol"
+        ],
+        "supplements_optional" : "Entrance to Blue Cave to be paid on the spot: up to $16 per person (depending on the season)"
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 SPLIT ARRIVAL, Saturday (WR, D)",
+            "day_summary": "You will be transferred from Split’s airport or your Split hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+        },
+        {
+            "day_headline" : "Day 2 SPLIT – NP KRKA – SIBENIK, Sunday (B, L)",
+            "day_summary" : "Depart from Split early in the morning towards Sibenik. After lunch disembark in Sibenik and take the bus to visit Krka National Park. It’s magnificent waterfalls, including the famous waterfall Skradinski Buk, are one of Croatia’s most famous sights. After the sightseeing tour, we will return to Sibenik, a city of exceptional history and rich cultural heritage. Set out on a walking tour of Sibenik historical center and visit one of the most beautiful Renaissance Cathedrals of the Adriatic. Your night is at leisure in town."
+        },
+        {
+            "day_headline": "Day 3 ŠIBENIK – GALEŠNJAK – ZADAR, Monday (B, L)",
+            "day_summary": "Leaving Šibenik early in the morning we set sail for Galešnjak, a typical small Dalmatian island, where you can enjoy a swim stop in one of secluded bays. Enjoy lunch while we cruise into Zadar harbour in the afternoon. Set out on a walking tour of Zadar historical center and admire the old walls and Port Gate built in 16th century. Visit the Square of the Five Wells, the Church of St. Donat, the Roman Forum and the largest Cathedral in Dalmatia, St. Anastasia. If there is a breeze, enjoy at the sea organ, an amazing art installation. Overnight in Zadar."
+        },
+        {
+            "day_headline": "Day 4 ZADAR – SALI – NP KORNATI – PRIMOSTEN, Tuesday (B, L)",
+            "day_summary": "Morning departure for Sali, a tourist town on Dugi Otok surrounded by hills, fields, bays and islets. Enjoy swimming in one of the secluded bays. We set sail for the National Park Kornati, comprised of 89 unforgettable islands, islets and reefs. The Kornati National Park is often mentioned as a “nautical paradise” and a rich marine eco-system. Afterwards we continue to Primošten built on a hill and dominated by the parish Church of St. George which was built in 1485. Your evening is at leisure in town."
+        },
+        {
+            "day_headline": "Day 5 PRIMOŠTEN – VIS, Wednesday (B, L, CD)",
+            "day_summary": "We will have an early morning cruise towards the island of Vis, once a strategic naval Yugoslav base and closed to the public. Due to this isolation, Vis has a special charm – “the Mediterranean as it once was” making it really interesting to visit. Upon arrival in town of Vis join the walking tour to visit the remains of the Roman thermal place and views of the beautiful Villae Rusticae situated along the waterfront. Tonight, enjoy Captain’s dinner onboard."
+        },
+        {
+            "day_headline": "Day 6 VIS – BIŠEVO – HVAR – STARI GRAD, Thursday (B, L)",
+            "day_summary": "We will have an early morning cruise towards small island of Biševo to visit the Blue cave, a magnificent natural phenomenon. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Enjoy a relaxing cruise as we sail towards the island of Hvar, with swim stop in one of the secluded bays. Hvar is a favourite holiday destination for international celebrities, but it’s also a charming seaside town with 8 centuries of architecture. On a walking tour visit the old town with the picturesque little streets and the first public theatre in Europe. We will continue towards Stari Grad on the Hvar Island, the sunniest Adriatic island. The famous Stari Grad Field is the oldest in Croatia and the best preserved example of ancient Greek system of agriculture. It is a part of world heritage protected by UNESCO. Overnight in Stari Grad."
+        },
+        {
+            "day_headline": "Day 7 STARI GRAD – BOL (Wine tasting) – SPLIT, Friday (B, L, T)",
+            "day_summary": "In the morning we will continue towards our final island destination – the island of Brač where swimming is planned at the most famous beach in Dalmatia – Golden Horn near Bol – whose pebbles shifts from side to side as the wind and waves constantly change in shape. Join the visit to a Winery where you will have a guided winery tour to learn more about Dalmatian wines and enjoy a Wine tasting. We arrive in Split in the afternoon. This UNESCO World Heritage city bases the city centre in and around the stunning Diocletian’s Palace, the Roman emperor Diocletian’s retirement palace from 295–305 AD. Stroll through the palace basement filled with market stalls and outside experience the historical architecture of this beautiful palace. See the remnants of Split`s Roman heritage, it`s Renaissance and Gothic structures, Jupiter`s temple, the Peristyle and many other unique sites. Overnight in Split."
+        },
+        {
+            "day_headline": "Day 8 SPLIT DEPARTURE, Saturday (B)",
+            "day_summary": "After breakfast it’s time to disembark. You will be transferred to Split airport or your Split hotel."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "ARCA",
+            "dates" : {
+                "low_season" : ["10/01/2022", "10/08/2022"],
+                "mid_season" : ["08/06/2022","08/13/2022","08/20/2022","09/24/2022"],
+                "high_season" : ["06/11/2022","07/16/2022", "09/03/2022","09/10/2022", "09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        },
+        {
+            "name" : "PRESTIGE",
+            "dates" : {
+                "low_season" : ["05/14/2022","10/15/2022"],
+                "mid_season" : ["05/21/2022","07/23/2022","07/30/2022"],
+                "high_season" : ["08/27/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K210/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K210/1 (1).png","https://kompas.net/images/adriatic_cruises/K210/1 (2).png","https://kompas.net/images/adriatic_cruises/K210/1 (3).png","https://kompas.net/images/adriatic_cruises/K210/1 (4).png","https://kompas.net/images/adriatic_cruises/K210/1 (5).png"]
+},
+{
+    "cruise_name" : "K260 One way Split to Dubrovnik",
+    "cruise_id" : 6,
+    "short_description" : "From Split to Trogir, np Krka, Stari Grad, Hvar, Vis, Biševo, Korčula, Mljet, Slano, Elaphiti islands and Dubrovnik",
+    "features" : {
+        "included" : " 7 nights cruise from Split to Dubrovnik#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#6 lunches, all with 4 courses# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Split, Trogir, Hvar, Korčula and Dubrovnik#Guided tour and entrance to Krka National Park and Mljet National Park#Oyster tasting in Ston"
+        ],
+        "supplements_optional" : "Entrance to Blue Cave to be paid on the spot: up to $16 per person (depending on the season)"
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 SPLIT ARRIVAL, Saturday (WR, D)",
+            "day_summary": "You will be transferred from Split’s airport or your Split hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+        },
+        {
+            "day_headline" : "Day 2 SPLIT – TROGIR (NP Krka excursion), Sunday (B, L)",
+            "day_summary" : "In the morning join a guided tour of Split, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. Set sail to the old Dalmatian town Trogir. Trogir is sometimes referred to as “miniature Venice” or a “mini Dubrovnik” because of its ancient walls, or a floating museum town – as it has a masterful architecture including some stunning Venetian palaces. After disembark in Trogir we will take the bus to visit Krka National Park. You will discover the pristine nature and waterfalls of the Krka National Park, an area extremely rich with flora and fauna. Overnight in Trogir."
+        },
+        {
+            "day_headline": "Day 3 TROGIR – STARI GRAD, Monday (B, L)",
+            "day_summary": "Morning guided tour of Trogir with a local tour guide. Enjoy sailing towards Stari Grad on the island of Hvar, swimming stop and lunch on board. Stari Grad is one of the oldest towns in Europe with many friendly and cheap konobas and restaurants in the backstreets of the old town. The Stari Grad Plain and the old town centre of Stari Grad have been listed as UNESCO World Heritage Sites since 2008. Your evening is free to explore Stari Grad on your own."
+        },
+        {
+            "day_headline": "Day 4 STARI GRAD – HVAR – VIS, Tuesday (B, L)",
+            "day_summary": "Leaving Stari Grad in the morning towards city of Hvar. A sightseeing tour of Hvar town shows you the first public theatre in Europe and many more historical sites. Afterwards continue to Vis. The town of Vis is on the northern side of the island and was developed near the remains of ancient Issa, the first urban centre in Croatia, formed by the Greeks in 4th century B.C. Visit the remains of the Roman Baths, Church or Our Lady and City museum or take a walk enjoying the view of the beautiful Villae Rusticae situated along the coast. Your evening is free in Vis."
+        },
+        {
+            "day_headline": "Day 5 VIS – BIŠEVO – KORČULA, Wednesday (B, L)",
+            "day_summary": "Leaving Vis we will have an early morning cruise towards Biševo island to visit the Blue Cave, a magnificent natural phenomenon on the islet Biševo just in front of the town of Komiža. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Afterwards cruise towards the Korčula the island’s main settlement and is known as the birthplace of Marco Polo, one of the world’s most famous explorers of all times. Stop for lunch in one of the secluded bays en route. Afternoon arrival in Korčula followed by a guided walking tour of one of the best preserved medieval cities in the Mediterranean. Korčula has an abundant choice of restaurants to enjoy your gourmet experience and there are numerous bars and clubs for those looking for evening entertainment. Overnight in Korčula."
+        },
+        {
+            "day_headline": "Day 6 KORČULA – MLJET – SLANO (Oyster Tasting), Thursday (B, L, T, CD)",
+            "day_summary": "In the morning head further south to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park. Alternatively, you can rent bicycles, scooters or kayaks to explore the National Park or island on your own. Lunch on board and departure for a small village called Slano on the mainland, a peaceful fishermen’s village and the starting point to Ston, another once fortified small village famous for its oysters situated on Pelješac peninsula. Pelješac peninsula is known as one of the best wine-producing regions in Croatia. After exploring the town we leave to a small nearby village to enjoy the authentic local oyster tasting. Tonight enjoy Captain’s dinner and overnight in Slano."
+        },
+        {
+            "day_headline": "Day 7 SLANO – ELAPHITI ISLANDS – DUBROVNIK, Friday (B, L)",
+            "day_summary": "Early morning cruise to Elaphiti islands with swimming stop on one of the secluded bays to spend the morning. Before lunch sail to Dubrovnik, before we moor at Gruž port we cruise alongside the old city walls, while lunch is served. After docking join a guided tour with panoramic ride and transfer included. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After city tour, you will be left on your own to explore the city, visit City Walls, the Franciscan Monastery with Europe’s second oldest pharmacy, the Rector’s Palace and the Cathedral, take a boat ride to Lokrum island or take the cable car to the top of the Mount Srđ. Overnight in Dubrovnik."
+        },
+        {
+            "day_headline": "Day 8 DUBROVNIK DEPARTURE, Saturday (B)",
+            "day_summary": "After breakfast it’s time to disembark. You will be transferred to Dubrovnik airport or your Dubrovnik hotel."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "MY WISH",
+            "dates" : {
+                "low_season" : ["05/14/2022","10/01/2022","10/15/2022"],
+                "mid_season" : ["05/28/2022","07/23/2022","08/06/2022","08/20/2022"],
+                "high_season" : ["06/11/2022","06/25/2022","07/09/2022", "09/03/2022","09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1800,
+                    "mid_season" : 2040,
+                    "high_season" : 2280
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN WITH BALCONY",
+                    "low_season" : 2280,
+                    "mid_season" : 2520,
+                    "high_season" : 2760
+                }
+            ]
+        },
+        {
+            "name" : "DESIRE",
+            "dates" : {
+                "low_season" : [""],
+                "mid_season" : ["05/28/2022"],
+                "high_season" : ["06/11/2022","07/02/2022","09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "SUN DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        },
+        {
+            "name" : "MY WAY",
+            "dates" : {
+                "low_season" : [""],
+                "mid_season" : ["05/21/2022","07/30/2022","08/20/2022","09/24/2022"],
+                "high_season" : ["06/04/2022","06/18/2022","06/25/2022","07/02/2022","07/09/2022","08/27/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 1920,
+                    "high_season" : 2160
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "MAIN DECK SINGLE CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        },
+        {
+            "name" : "PRESTIGE",
+            "dates" : {
+                "low_season" : ["05/07/2022","05/14/2022"],
+                "mid_season" : ["05/21/2022","05/28/2022","07/23/2022","07/30/2022"],
+                "high_season" : ["06/04/2022","06/18/2022","06/25/2022","07/02/2022","07/09/2022","08/27/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        },
+        {
+            "name" : "EQUATOR",
+            "dates" : {
+                "low_season" : ["10/01/2022"],
+                "mid_season" : ["08/13/2022"],
+                "high_season" : ["07/02/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1680,
+                    "mid_season" : 1920,
+                    "high_season" : 2160
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K260/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K260/1 (1).png","https://kompas.net/images/adriatic_cruises/K260/1 (2).png","https://kompas.net/images/adriatic_cruises/K260/1 (3).png","https://kompas.net/images/adriatic_cruises/K260/1 (4).png","https://kompas.net/images/adriatic_cruises/K260/1 (5).png"]
+},
+{
+    "cruise_name" : "K270 One way Dubrovnik to Split",
+    "cruise_id" : 7,
+    "short_description" : "8-day cruise from Dubrovnik to Elaphiti islands, Slano, Mljet, Korčula, Biševo, Vis, Hvar, Stari Grad and Split",
+    "features" : {
+        "included" : "7 nights cruise from Dubrovnik to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#6 lunches, all with 4 courses# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Dubrovnik, Korčula, Hvar, Trogir and Split#Guided tour and entrance to Mljet National Park and Krka National Park#Oyster tasting in Ston"
+        ],
+        "supplements_optional" : "Entrance to Blue Cave to be paid on the spot: up to $16 per person (depending on the season)"
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 DUBROVNIK ARRIVAL, Saturday (WR, D)",
+            "day_summary": "You will be transferred from Dubrovnik airport or your Dubrovnik hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome reception followed by dinner this evening."
+        },
+        {
+            "day_headline" : "Day 2 DUBROVNIK – ELAPHITI ISLANDS – SLANO (Oyster tasting), Sunday (B, L, T, CD)",
+            "day_summary" : "Start the day with a walking tour of Dubrovnik, the “Pearl of Adriatic”. Walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After returning to ship enjoy the magic scenery as the ship cruises around Dubrovnik city walls to continue to one of the Elaphiti islands for a swim stop. Afternoon arrival in Slano, a peaceful fishermen’s village and our starting point to Ston, once fortified small village famous for its oysters situated on Pelješac peninsula. Pelješac peninsula is known as one of the best wine-producing regions in Croatia. After exploring the town we leave to a small nearby village to enjoy the authentic local oyster tasting. Overnight and Captain’s dinner in Slano."
+        },
+        {
+            "day_headline": "Day 3 SLANO – MLJET – KORCULA, Monday (B, L)",
+            "day_summary": "In the morning we head north to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park. Continue our cruise towards the Korčula island best known as the birthplace of Marco Polo. Afternoon arrival in Korčula followed by a guided walking tour of this enchanting town surrounded by walls, which is one of the best preserved medieval cities in the Mediterranean. Overnight in Korčula where you can enjoy a gourmet experience at the multiple restaurants and bars."
+        },
+        {
+            "day_headline": "Day 4 KORČULA – BIŠEVO – VIS, Tuesday (B, L)",
+            "day_summary": "Early in the morning we sail to small island Biševo to visit the Blue Cave, a magnificent natural phenomenon. As sometimes weather conditions can be very unpredictable, the possibility of our visit will depend on those conditions, however you will be notified of this on time. Cruise towards the island of Vis, once a strategic naval Yugoslav base and restricted to the public. Due to this isolation, Vis has a special charm – “the Mediterranean as it once was” making it really interesting to visit. Try some exquisite wine sorts in one of the Vis traditional wineries. If interested, visit the remains of the Roman thermal place, City museum or simply take a walk enjoying the views. Overnight in the port of Vis."
+        },
+        {
+            "day_headline": "Day 5 VIS – HVAR – STARI GRAD, Wednesday (B, L)",
+            "day_summary": "In the morning head further towards Hvar, the longest and sunniest island in the Adriatic, with a swim stop and lunch on board. Afternoon arrival in Hvar town followed by a tour of the town – the Renaissance cathedral with its original tower, and the oldest community theatre in Europe founded in 1612. After the tour set sail towards Stari Grad on the island of Hvar, one of the oldest cities in Europe where you will overnight."
+        },
+        {
+            "day_headline": "Day 6 STARI GRAD – TROGIR (NP Krka excursion), Thursday (B, L)",
+            "day_summary": "Early morning departure to the old Dalmatian town Trogir. Trogir is sometimes referred to as “miniature Venice” or a “mini Dubrovnik” because of its ancient walls, or a floating museum town – as it has a masterful architecture including some stunning Venetian palaces. After disembark in Trogir we will take the bus to visit Krka National Park. You will discover the pristine nature and waterfalls of the Krka National Park, an area extremely rich with flora and fauna. Overnight in Trogir."
+        },
+        {
+            "day_headline": "Day 7 TROGIR – SPLIT, Friday (B, L)",
+            "day_summary": "In the morning join our guided tour of Trogir with a local tour guide. Set sail to Split with a stop along the way to swim and relax, if weather permits, with lunch on board. In the late afternoon we arrive at Split to spend the night. Arriving in Split, join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. Your evening is free in Split."
+        },
+        {
+            "day_headline": "Day 8 SPLIT DEPARTURE, Saturday (B)",
+            "day_summary": "After breakfast it’s time to disembark. You will be transferred to Split airport or your Split hotel."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "MY WISH",
+            "dates" : {
+                "low_season" : ["05/07/2022","10/08/2022"],
+                "mid_season" : ["05/21/2022","07/30/2022","08/13/2022","08/24/2022"],
+                "high_season" : ["06/04/2022","06/18/2022","07/02/2022","07/16/2022", "08/27/2022","09/10/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1800,
+                    "mid_season" : 2040,
+                    "high_season" : 2280
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN WITH BALCONY",
+                    "low_season" : 2280,
+                    "mid_season" : 2520,
+                    "high_season" : 2760
+                }
+            ]
+        },
+        {
+            "name" : "DESIRE",
+            "dates" : {
+                "low_season" : [""],
+                "mid_season" : ["09/24/2022"],
+                "high_season" : ["06/04/2022","06/18/2022","07/09/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2040,
+                    "high_season" : 2280
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2340,
+                    "high_season" : 2580
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2400,
+                    "high_season" : 2640
+                },
+                {
+                    "cabin_name" : "SUN DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2520,
+                    "high_season" : 2760
+                }
+            ]
+        },
+        {
+            "name" : "MY WAY",
+            "dates" : {
+                "low_season" : ["10/15/2022"],
+                "mid_season" : ["05/28/2022","07/23/2022","08/06/2022"],
+                "high_season" : ["06/11/2022","06/25/2022","07/09/2022","09/10/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1680,
+                    "mid_season" : 1920,
+                    "high_season" : 2160
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "SUN DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        },
+        {
+            "name" : "PRESTIGE",
+            "dates" : {
+                "low_season" : ["05/07/2022","05/14/2022"],
+                "mid_season" : ["05/21/2022","05/28/2022","07/23/2022","07/30/2022"],
+                "high_season" : ["06/04/2022","06/18/2022","06/25/2022","07/02/2022","07/09/2022","08/27/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1680,
+                    "mid_season" : 1920,
+                    "high_season" :2160
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : 2280,
+                    "high_season" : 2520
+                }
+            ]
+        },
+        {
+            "name" : "EQUATOR",
+            "dates" : {
+                "low_season" : [""],
+                "mid_season" : ["08/06/2022","08/13/2022","09/24/2022"],
+                "high_season" : ["06/18/2022","09/03/2022","09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 1920,
+                    "high_season" : 2160
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : "",
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K270/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K270/1 (1).png","https://kompas.net/images/adriatic_cruises/K270/1 (2).png","https://kompas.net/images/adriatic_cruises/K270/1 (3).png","https://kompas.net/images/adriatic_cruises/K270/1 (4).png","https://kompas.net/images/adriatic_cruises/K270/1 (5).png"]
+},
+{
+    "cruise_name" : "K240 Dubrovnik return cruise",
+    "cruise_id" : 8,
+    "short_description" : "8-day cruise from Dubrovnik to Split and back to Dubrovnik",
+    "features" : {
+        "included" : "7 nights cruise from Dubrovnik to Split and back to Dubrovnik#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#6 lunches, all with 4 courses# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : [" City tours of Dubrovnik, Korcula, Hvar and Split#Guided tour and entrance to Mljet National Park#Wine tasting in Korcula"
+        ]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 DUBROVNIK ARRIVAL, Saturday (WR, D)",
+            "day_summary": "You will be transferred from Dubrovnik’s airport or your Dubrovnik’s hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome Reception followed by dinner this evening."
+        },
+        {
+            "day_headline" : "Day 2 DUBROVNIK – KORČULA (Wine tasting), Sunday (B, L, T)",
+            "day_summary" : "Early in the morning we set sail for the island of Korcula, with swimming stop, if weather permits, in one of pristine bays, time to relax and lunch on board. Continue towards Korčula, the most preserved medieval town, thought to be the birthplace of the famous explorer Marco Polo. Take a walking tour of Korčula which takes you through its narrow, cobbled streets full of history and enjoy wine tasting in one of the local wine bars. Evening is free to explore the town on your own."
+        },
+        {
+            "day_headline": "Day 3 KORČULA – MAKARSKA, Monday (B, L, CD)",
+            "day_summary": "In the morning we continue our adventure by sailing to town of Makarska, on the mainland, where we will spend the night. Makarska is one of the most popular tourist resort areas on Adriatic due to its long pebbly beaches and scenic mountains in the background, which creates a specific climate and picturesque views. After lunch on board, you will have free time to enjoy the therapeutic benefits of fresh sea air by walking through the green paths of St. Peter peninsula towards west and then further to the beach for a lovely 2 km long walk along the seaside promenade or to explore the streets and squares of Old Town behind the main promenade, which are abundant with galleries, souvenir shops, cafes and restaurants. Tonight enjoy Captain’s dinner and overnight in port of Makarska."
+        },
+        {
+            "day_headline": "Day 4 MAKARSKA – PUČIŠĆA – SPLIT, Tuesday (B, L)",
+            "day_summary": "Our journey then continues towards Pučišća, situated on the island of Brač, village of the stone sculpture, where you can visit amazing stonemason school (optional). After visiting Pučišća set sail to Split with a stop along the way to swim and relax, if weather permits, with lunch on board. In the late afternoon we arrive at Split to spend the night. Arriving in Split, join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. Your evening is free in Split."
+        },
+        {
+            "day_headline": "Day 5 SPLIT – HVAR, Wednesday (B, L)",
+            "day_summary": "Adriatic. A sightseeing tour of Hvar town shows you the first public theatre in Europe and many more historical sites. Spend evening and night in Hvar. Note: Due to the limited capacity of the Hvar harbour (during peak season in July and August) port of call can be substituted for Stari Grad/Jelsa. In that case transfer by bus will be organized to and from Hvar."
+        },
+        {
+            "day_headline": "Day 6 HVAR – MLJET, Thursday (B, L)",
+            "day_summary": "In the morning head further south to the Island of Mljet. Join the Cruise Manager for a stroll to the famous salt lakes in the Mljet National Park and enjoy the boat ride to the St Mary Isle to visit an ancient Benedictine monastery, an old abbey and a Church dating back to the 12th Century. Alternatively, you can rent bicycles, scooters or kayaks to explore the National Park or island on your own. Overnight in port of Pomena."
+        },
+        {
+            "day_headline": "Day 7 MLJET – DUBROVNIK, Friday (B, L)",
+            "day_summary": "In the morning sail to Dubrovnik, the “Pearl of the Adriatic”, a UNESCO World Heritage site. Upon arrival in Dubrovnik, you will enjoy a guided tour of the magnificent Old Town with a panoramic bus ride above the Old Town. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After city tour, you will be left on your own to explore the city, visit City Walls, the Franciscan Monastery with Europe’s second oldest pharmacy, the Rector’s Palace and the Cathedral, take a boat ride to Lokrum island or take the cable car to the top of the Mount Srđ. Overnight in Dubrovnik."
+        },
+        {
+            "day_headline": "Day 8 DUBROVNIK DEPARTURE, Saturday (B)",
+            "day_summary": "After breakfast it’s time to disembark. You will be transferred to Dubrovnik airport or your Dubrovnik hotel."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "MY WAY",
+            "dates" : {
+                "low_season" : ["10/01/2022","10/08/2022"],
+                "mid_season" : "",
+                "high_season" : ["08/27/2022","09/03/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : "",
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : "",
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "MAIN DECK SINGLE CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : "",
+                    "high_season" : 2400
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN",
+                    "low_season" : 2040,
+                    "mid_season" : "",
+                    "high_season" : 2520
+                }
+            ]
+        },
+        {
+            "name" : "EQUATOR",
+            "dates" : {
+                "low_season" : ["10/15/2022"],
+                "mid_season" : ["05/21/2022","05/28/2022","07/23/2022"],
+                "high_season" : ["06/04/2022","06/11/2022","07/02/2022","07/09/2022","07/16/2022","08/27/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1560,
+                    "mid_season" : 1800,
+                    "high_season" : 2040
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1920,
+                    "mid_season" : 2160,
+                    "high_season" : 2400
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K240/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"]
+},
+{
+    "cruise_name" : "K280 Zadar to Dubrovnik",
+    "cruise_id" : 9,
+    "short_description" : "8-day cruise from zadar to Sibenik, Trogir, Split, Bol, Hvar, Korcula, Mljet and Dubrovnik",
+    "features" : {
+        "included" : "7 nights cruise from Zadar to Dubrovnik#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#6 lunches, all with 4 courses# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Zadar, Split, Hvar, Korčula and Dubrovnik#Guided tour and entrance to Mljet National Park and Krka National Park#Entrance to Kornati National Park"
+        ]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 ZADAR ARRIVAL, Sunday (WR, D)",
+            "day_summary": "You will be transferred from the airport or from your hotel in Zadar to the port for embarkation. Later join your fellow travelers and your cruise manager for an on board welcome reception and dinner."
+        },
+        {
+            "day_headline" : "Day 2 ZADAR – SALI, Monday (B, L)",
+            "day_summary" : "We start the day with breakfast followed by a walking tour of Zadar’s historical center. The city’s compact pedestrian zone is perfect to explore on foot. We admire the 16th century walls built by the Venetians as a defense against the Turks. We also see the Port Gate where the Venetian lion still guards the entrance, the Square of the Five Wells, the Church of St. Donat, the Roman Forum, and the largest cathedral in Dalmatia, St. Anastasia. We stop for a tasting of traditional Maraschino liqueur. While we set sail for Sali, lunch is served. Later in the day, we explore Sali. Dinner is on your own in one of the local restaurants."
+        },
+        {
+            "day_headline": "Day 3 SALI – ŠIBENIK, Tuesday (B, L)",
+            "day_summary": "After breakfast, we take in the scenic wonderlands of two National Parks in the Sibenik area: Krka, with its breathtaking waterfalls, and Kornati, comprised of more than 140 islands with numerous coves and crystal-clear waters. The day is devoted to tourthese scenic destinations. After our visithere, the evening is at leisure in Sibenik."
+        },
+        {
+            "day_headline": "Day 4 ŠIBENIK – TROGIR – SPLIT, Wednesday (B, L)",
+            "day_summary": "In the morning there is time for a swim before we continue sailing. After lunch, we arrive in the UNESCO-listed city of Trogir. Our time here is at leisure until we set course for Split. Here, a walking tour of the historic inner city takes us to the Palace of the Roman Emperor Diocletian, a UNESCO World Heritage Site. We see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle, and the Cathedral."
+        },
+        {
+            "day_headline": "Day 5 SPLIT – BOL – HVAR, Thursday (B, L)",
+            "day_summary": "We sail to Bol, home of the Golden Horn, one of the most breathtaking beaches in Croatia. This vast, golden pebble beach is unique in that it changes shape and position depending on the direction of the winds. Before lunch, there is time for a swim in the clear blue waters. Later, we sail to the island of Hvar where we enjoy a sightseeing tour that includes the first public theatre in Europe, the Franciscan Monastery, and many more historic sights. The evening is free to explore Hvar and to dine on your own in one of the excellent restaurants.<br>Note: Due to the limited capacity of the Hvar harbor (during peak season in July and August) the port of call can be substituted for Stari Grad / Jelsa. In that case transfers by bus will be organized to and from Hvar."
+        },
+        {
+            "day_headline": "Day 6 HVAR – KORČULA – MLJET, Friday (B, L, CD)",
+            "day_summary": "After breakfast we depart for Korčula, where we arrive in the early afternoon. Korčula town is thought to be the birthplace of the famous explorer Marco Polo. Our walking tour through its narrow, cobble-stone streets includes a visit of the majestic Gothic-Baroque Cathedral of St. Mark. We continue our cruise to the island of Mljet, where we enjoy an afternoon tour of Mljet National Park, which features five types of forest, many species of birds, and two deep lakes: Veliko Jezero (Big Lake) and Malo Jezero (Small Lake). This spectacular island was supposedly a favorite holiday spot for the Greek hero Ulysses! Tonight, on board our ship, we enjoy the Captain’s dinner with live entertainment and a glass of wine."
+        },
+        {
+            "day_headline": "Day 7 MLJET – DUBROVNIK, Saturday (B, L)",
+            "day_summary": "In the morning we sail to Dubrovnik, the so called “Pearl of Adriatic,” and a UNESCO World Heritage site. While in Dubrovnik, we take a walking tour of the old town and visit the Rector’s Palace and the Franciscan Monastery with its Pharmacy. The remainder of the day is free to discover even more of this amazing city."
+        },
+        {
+            "day_headline": "Day 8 DUBROVNIK DEPARTURE, Saturday (B)",
+            "day_summary": "After breakfast, you will be transferred to Dubrovnik airport or to your hotel in Dubrovnik."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "PREMIER",
+            "dates" : {
+                "low_season" : ["05/07/2022","10/08/2022"],
+                "mid_season" : ["05/21/2022","07/30/2022","08/13/2022","09/24/2022" ],
+                "high_season" : ["06/04/2022","06/18/2022","07/02/2022","07/16/2022","08/27/2022","09/10/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1800,
+                    "mid_season" : 2100,
+                    "high_season" : 2340
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN WITH BALCONY",
+                    "low_season" : 2280,
+                    "mid_season" : 2580,
+                    "high_season" : 2820
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K280/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K280/1 (1).png","https://kompas.net/images/adriatic_cruises/K280/1 (2).png","https://kompas.net/images/adriatic_cruises/K280/1 (3).png","https://kompas.net/images/adriatic_cruises/K280/1 (4).png","https://kompas.net/images/adriatic_cruises/K280/1 (5).png"]
+},
+{
+    "cruise_name" : "K290 Dubrovnik to Zadar",
+    "cruise_id" : 10,
+    "short_description" : "8-day cruise from Dubrovnik to Mljet, Korčula, Hvar, Bol, Split, Trogir, Sibenik, Sali and Zadar",
+    "features" : {
+        "included" : "7 nights cruise from Dubrovnik to Zadar#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#6 lunches and 1 dinner, all with 4 courses# Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Dubrovnik, Korčula, Hvar, Split, Šibenik and Zadar#Guided tour and entrance to Mljet National Park and Krka National Park#Entrance to Kornati National Park"
+        ]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 DUBROVNIK ARRIVAL, Sunday (WR, D)",
+            "day_summary": "You will be transferred from the airport or from your hotel in Dubrovnik to Gruz Harbor, where embarkation begins at noon. Later, join your fellow travelers and your cruise manager for an onboard welcome reception with dinner. This evening, you can relax on board, or take a stroll through Dubrovnik’s Old Town."
+        },
+        {
+            "day_headline" : "Day 2 DUBROVNIK – MLJET – KORCULA, Monday (B, L, D)",
+            "day_summary" : "We start the day with breakfast and a walking tour of Dubrovnik, the “Pearl of Adriatic” and a UNESCO World Heritage site. We visit the Rector’s Palace and the Franciscan Monastery’s Pharmacy before returning to the ship. While we set sail for Mljet Island, lunch is served. Mljet National Park features five types of forest, many species of birds, and two deep lakes: Veliko Jezero (Big Lake) and Malo Jezero (Small Lake). Spectacular scenery accompanies us all the way to Korčula, believed to be the birthplace of the explorer Marco Polo. Dinner tonight is on board."
+        },
+        {
+            "day_headline": "Day 3 KORCULA – HVAR, Tuesday (B, L)",
+            "day_summary": "This morning, after breakfast, we take a walking tour through the narrow, cobble-stone streets of Korčula town. Our visit includes a visit to the majestic Gothic-Baroque Cathedral of St. Mark. Afterward, we board our ship again and enjoy lunch. We stop for a swim en route to Hvar where we arrive late afternoon. There, during our sightseeing tour, we see the first public theatre in Europe, the Franciscan Monastery and much more. Our evening is free in Hvar so you can explore even more and dine on your own at one of the many restaurants in town.<br>Note: Due to the limited capacity of the Hvar harbor (during peak season in July and August) the port of call can be substituted for Stari Grad/Jelsa. In that case, transfers by bus will be organized to and from Hvar."
+        },
+        {
+            "day_headline": "Day 4 HVAR – BOL – SPLIT, Wednesday (B, L)",
+            "day_summary": "We sail to Bol, home of the Golden Horn, one of the most breathtaking beaches in Croatia. This vast, golden pebble beach is unique in that it changes shape and position depending on the direction of the winds. During lunch on board, we sail to Split. Here, a walking tour shows off the historic inner city, built around the Palace of the Roman Emperor Diocletian, a UNESCO World Heritage Site. We see the remnants of Split’s Roman heritage, its Renaissance and Gothic structures, Jupiter’s Temple, the Peristyle, and the Cathedral. The evening is free to discover more of Split."
+        },
+        {
+            "day_headline": "Day 5 SPLIT – TROGIR – ŠIBENIK, Thursday (B, L)",
+            "day_summary": "In the morning, we sail to the UNESCO-listed city of Trogir. Our time here is free to explore on your own. Back on board, enjoy lunch as we cruise to Šibenik, with a stop for a swim on the way. In Šibenik, a walking tour shows us the highlights of the city, then our evening is at leisure."
+        },
+        {
+            "day_headline": "Day 6 SIBENIK – SALI, Friday (B, L, CD)",
+            "day_summary": "The Šibenik area is home to two National Parks: Krka, with its breathtaking waterfalls, and Kornati, comprised of more than 140 islands with numerous coves and crystal-clear water. The day is devoted to tour these scenic destinations before we sail to Sali. Tonight, aboard our ship, enjoy the Captain’s dinner with live entertainment and a glass of wine."
+        },
+        {
+            "day_headline": "Day 7 SALI – ZADAR, Saturday (B, L)",
+            "day_summary": "As we cruise this morning, and weather permitting, we stop for a swim. After lunch, we arrive in Zadar. The city’s compact pedestrian zone is perfect to explore on foot. We admire the 16th century walls built by the Venetians as a defense against the Turks. We also see the Port Gate where the Venetian lion still guards the entrance, the Square of the Five Wells, the Church of St. Donat, the Roman Forum, and the largest cathedral in Dalmatia, St. Anastasia. After the tour, we stop for a tasting of traditional Maraschino liqueur. The evening is free in Zadar."
+        },
+        {
+            "day_headline": "Day 8 ZADAR DEPARTURE, Sunday (B)",
+            "day_summary": "After breakfast, you will be transferred to Zadar airport or to your hotel in Zadar."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "PREMIER",
+            "dates" : {
+                "low_season" : ["05/14/2022","10/01/2022","10/15/2022"],
+                "mid_season" : ["05/28/2022","07/23/2022","08/06/2022","08/20/2022" ],
+                "high_season" : ["06/11/2022","06/25/2022","07/09/2022","09/03/2022","09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1800,
+                    "mid_season" : 2100,
+                    "high_season" : 2340
+                },
+                {
+                    "cabin_name" : "UPPER DECK CABIN WITH BALCONY",
+                    "low_season" : 2280,
+                    "mid_season" : 2580,
+                    "high_season" : 2820
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K290/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K290/1 (1).png","https://kompas.net/images/adriatic_cruises/K290/1 (2).png","https://kompas.net/images/adriatic_cruises/K290/1 (3).png","https://kompas.net/images/adriatic_cruises/K290/1 (4).png","https://kompas.net/images/adriatic_cruises/K290/1 (5).png"]
+},
+{
+    "cruise_name" : "MINI ROUTE K200 SD",
+    "cruise_id" : 11,
+    "short_description" : "4-day mini cruise from Split to Stari Grad, Hvar, Korčula, Dubrovnik",
+    "features" : {
+        "included" : "3 nights cruise from Split to Dubrovnik#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 4 courses#Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Hvar, Korcula & Dubrovnik#Wine tasting Korcula"
+        ]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 SPLIT ARRIVAL, Saturday (WR, D)",
+            "day_summary": "You will be transferred from Split’s airport or your Split hotel to harbour, where embarkation begins at 1:00 PM. Get settled in your cabin before attending a Welcome reception followed by dinner this evening."
+        },
+        {
+            "day_headline" : "Day 2 SPLIT – STARI GRAD, Sunday (B, L)",
+            "day_summary" : "Morning sail towards Stari Grad on the island of Hvar. Swimming stop and lunch on board. Stari Grad is one of the oldest towns in Europe with many friendly and cheap konobas and restaurants in the backstreets of the old town. The Stari Grad Plain and the old town centre of Stari Grad have been listed as UNESCO World Heritage Sites since 2008. Your evening is free to explore Stari Grad on your own."
+        },
+        {
+            "day_headline": "Day 3 STARI GRAD – HVAR – KORČULA (Wine tasting), Monday (B, L, T)",
+            "day_summary": "Morning departure towards to the town of Hvar on the island of Hvar, the most popular island in the Adriatic and a meeting point for the international jet set. A sightseeing tour of this charming town, with 8 centuries of architecture, will show you the picturesque little streets and the first public theatre in Europe (older than Shakespeare’s theatre in the UK). Afterwards we set sail for Korčula, with swimming stop in one of pristine bays and lunch onboard. Early afternoon arrival to Korčula, thought to be the birthplace of the famous explorer Marco Polo. Take a walking tour through this fortified town which is one of the best preserved medieval cities in the Mediterranean and enjoy wine tasting in one of the local wine bars. Your evening is free to discover the town and enjoy dinner on your own at one of the many good restaurants."
+        },
+        {
+            "day_headline": "Day 4 KORČULA – DUBROVNIK DEPARTURE, Tuesday (B, L)",
+            "day_summary": "In the morning sail to Dubrovnik, the “Pearl of the Adriatic”, a UNESCO World Heritage site. Enjoy lunch while we cruise into Dubrovnik harbour in the afternoon. please leave your cabin and place your luggage in the Saloon. Set out on a walking tour of Dubrovnik, you will enjoy a guided tour of the magnificent Old Town with a panoramic bus ride above the Old Town. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After the city tour you can take your luggage from the cruise and disembark."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "ARCA, DESIRE, EQUATOR, MY WAY, PRESTIGE",
+            "dates" : {
+                "low_season" : ["05/07/2022","05/14/2022","10/01/2022","10/08/2022","10/15/2022"],
+                "mid_season" : ["05/21/2022","05/28/2022","07/23/2022","07/30/2022","08/06/2022","08/13/2022","08/20/2022","09/24/2022"],
+                "high_season" : ["06/04/2022","06/11/2022","06/18/2022","06/25/2022","07/02/2022","07/09/2022","07/16/2022","08/27/2022","09/03/2022","09/10/2022","09/17/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1065,
+                    "mid_season" : 1220,
+                    "high_season" : 1370
+                },
+                {
+                    "cabin_name" : "MAIN DECK",
+                    "low_season" : 1290,
+                    "mid_season" : 1455,
+                    "high_season" : 1605
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K200SD/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200SD/1 (1).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (2).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (3).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (4).png","https://kompas.net/images/adriatic_cruises/K200SD/1 (5).png"]
+},
+{
+    "cruise_name" : "MINI ROUTE K200 DS",
+    "cruise_id" : 12,
+    "short_description" : "5-day mini cruise from Dubrovnik, Mljet, Pučišća, Omiš and Split",
+    "features" : {
+        "included" : "4 nights cruise from Dubrovnik to Split#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#3 lunches, all with 4 courses#Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tour of Split#Guided tour and entrance to Mljet National Park"
+        ]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 DUBROVNIK ARRIVAL, Tuesday",
+            "day_summary": "You will be transferred from Dubrovnik’s airport or your Dubrovnik’s hotel to harbour, where embarkation begins at 6:00 PM."
+        },
+        {
+            "day_headline" : "Day 2 DUBROVNIK – MLJET, Wednesday (B, L)",
+            "day_summary" : "In the morning we head north to the Island of Mljet, with plenty of time for morning swim along the sail. Upon arrival join the Cruise Manager for a visit to the famous salt lakes in the National Park and enjoy the boat ride to St. Mary Isle to visit an ancient Benedictine monastery, an old abbey and a Church dating back to the 12th Century. Mljet National Park encompasses five types of forest, many species of birds, and two deep lakes, Veliko Jezero (Big Lake) and Malo Jezero (Small Lake). Your evening is free in Mljet."
+        },
+        {
+            "day_headline": "Day 3 MLJET – PUCISCA, Thursday (B, L, CD)",
+            "day_summary": "Take a break for a swim during your morning cruise. Continue sailing through lunch, arriving this afternoon in Pučišća, a beautiful little town on island of Brač. Pučišća features a spectacular steep-sided natural harbour and authentic Mediterranean architecture. Tonight, enjoy Captain’s dinner onboard."
+        },
+        {
+            "day_headline": "Day 4 PUČIŠĆA – OMIŠ – SPLIT, Friday (B, L)",
+            "day_summary": "Next we head to our final port Omiš with its fortresses which are silent stone reminders of the power of the pirates who once made their homes and fortunes here. You will have a possibility to book a short walking tour, followed by boarding a small boat and sail into Cetina River Canyon, a protected nature area, continuing to Radman Mills for a local specialty snack. After visiting Omiš set sail to Split with a stop along the way to swim, cool off and relax, if weather permits, with lunch onboard. In the late afternoon we arrive in Split to take a guided tour of the historical center of city which is listed as a UNESCO World Heritage site. Your evening is free in Split."
+        },
+        {
+            "day_headline": "Day 5 SPLIT – TROGIR – ŠIBENIK, Thursday (B, L)",
+            "day_summary": "After breakfast it’s time to disembark. You will be transferred to Split airport or your Split hotel."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "ARCA, DESIRE, EQUATOR, MY WAY, PRESTIGE",
+            "dates" : {
+                "low_season" : ["05/10/2022","05/17/2022","10/04/2022","10/11/2022","10/18/2022"],
+                "mid_season" : ["05/24/2022","05/31/2022","07/26/2022","08/02/2022","08/09/2022","08/16/2022","08/23/2022"],
+                "high_season" : ["06/07/2022","06/14/2022","06/21/2022","06/28/2022","07/05/2022","07/12/2022","07/19/2022","08/30/2022","09/06/2022","09/13/2022","09/20/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1310,
+                    "mid_season" : 1500,
+                    "high_season" : 1680
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1585,
+                    "mid_season" : 1785,
+                    "high_season" : 1970
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K200DS/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K200DS/1 (1).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (2).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (3).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (4).png","https://kompas.net/images/adriatic_cruises/K200DS/1 (5).png"]
+},
+{
+    "cruise_name" : "K245 Superior Dubrovnik return cruise",
+    "cruise_id" : "13",
+    "short_description" : "8-day cruise from Dubrovnik, Korčula, Pučišča, Omiš, Split, Stari Grad, Hvar, Mljet and Dubrovnik",
+    "features" : {
+        "included" : "7 nights cruise from Dubrovnik to Split and back to Dubrovnik#Supreme category ship in a cabin with private bathroom#air conditioning & LCD TV#Arrival shared transfer from Dubrovnik airport/hotel to Dubrovnik#port and departure from Split port to Split airport/hotel#Daily buffet breakfast#6 lunches, all with 4 courses#Welcome dinner#Water dispenser#Complimentary coffee, tea and fresh fruits available daily#Professional Cruise Manager throughout#Daily cabin servicing#Whisper technology#Luggage handling#Free Wi-Fi on board#",
+        "sightseeing" : ["City tours of Korcula, Split, Hvar and Dubrovnik"
+        ]
+    },
+    "itinerary" : [
+        {
+            "day_headline": "Day 1 DUBROVNIK ARRIVAL, Sunday (WR, D)",
+            "day_summary": "We embark in Dubrovnik at 1:00 PM, get settled in your cabin before attending a Welcome reception followed by dinner this evening."
+        },
+        {
+            "day_headline" : "Day 2 DUBROVNIK – KORČULA (Wine tasting), Monday (B, L, T)",
+            "day_summary" : "Early in the morning we set sail for the island of Korcula, with swimming stop, if weather permits, in one of pristine bays, time to relax and lunch on board. Continue towards Korčula, the most preserved medieval town, thought to be the birthplace of the famous explorer Marco Polo. Take a walking tour of Korčula which takes you through its narrow, cobbled streets full of history and enjoy wine tasting in one of the local wine bars. Evening is free to explore the town on your own."
+        },
+        {
+            "day_headline": "Day 3 KORČULA – PUČIŠĆA, Tuesday (B, L, CD)",
+            "day_summary": "Our journey then continues towards Pučišća, situated on the island of Brač, village of the stone sculpture, where you can visit amazing stonemason school (optional). Lunch on board before arrival in Pučišća, enjoy a swim in one of Brač’s many lovely coves and bays, if weather permits. Enjoy Captain’s dinner onboard and overnight in Pučišća."
+        },
+        {
+            "day_headline": "Day 4 PUČIŠĆA – OMIŠ – SPLIT, Wednesday (B, L)",
+            "day_summary": "We depart for Omiš before breakfast, its fortresses are silent stone reminders of the power of the pirates who once made their homes and fortunes here. You will have a possibility to book a short walking tour, followed by boarding a small boat and sail into Cetina River Canyon, a protected nature area, continuing to Radman Mills for a local specialty snack. After visiting Omiš set sail to Split with a stop along the way to swim and relax, if weather permits, with lunch on board. In the late afternoon we arrive at Split to spend the night. Arriving in Split, join a guided tour of the city, visit the seafront promenade and Roman Emperor Diocletian’s Palace. The historical center of the city is listed as a UNESCO World Heritage site. Your evening is free in Split."
+        },
+        {
+            "day_headline": "Day 5 SPLIT – STARI GRAD, Thursday (B, L)",
+            "day_summary": "Morning sail towards Stari Grad on the island of Hvar. Swimming stop and lunch on board. Stari Grad is one of the oldest towns in Europe with many friendly and cheap konobas and restaurants in the backstreets of the old town. The Stari Grad Plain and the old town centre of Stari Grad have been listed as UNESCO World Heritage Sites since 2008. Your evening is free to explore Stari Grad on your own."
+        },
+        {
+            "day_headline": "Day 6 STARI GRAD – HVAR – MLJET, Friday (B, L)",
+            "day_summary": "Morning departure towards to the town of Hvar on the island of Hvar, for a sightseeing tour. Hvar town shows you the first public theatre in Europe (older than Shakespeare’s theatre in the UK) and many more historical sites. Afterwards come back for lunch on board and sail towards Mljet. Croatian “Greenest Island” will hypnotize you with its beautiful, untouched nature and its cultural heritage. We arrive in the heart of Mljet National Park which encompasses five types of forests, many species of birds and two deep lakes. If you want to visit Mljet National Park, walk to the entrance where you can purchase the ticket to walk around the Veliko Jezero (Big Lake) and the Malo Jezero (Small Lake) and join the boat ride to St. Mary Island. Spend the night in Mljet."
+        },
+        {
+            "day_headline": "Day 7 MLJET – DUBROVNIK, Saturday (B, L)",
+            "day_summary": "In the morning we continue our adventure by sailing back to Dubrovnik with lunch on board with stop for swimming. Upon arrival in Dubrovnik, you will enjoy a guided tour of the magnificent Old Town with a panoramic bus ride above the Old Town. After the panoramic view, we will arrive at the historical centre of Dubrovnik, walk through STRADUN – both a street and a square, the most famous place inside the town walls, the famous city enlisted as UNESCO’s World Heritage site, where your guide will show you the most interesting sights of Dubrovnik. After city tour, you will be left on your own to explore the city, visit City Walls, the Franciscan Monastery with Europe’s second oldest pharmacy, the Rector’s Palace and the Cathedral, take a boat ride to Lokrum island or take the cable car to the top of the Mount Srđ. Overnight in Dubrovnik."
+        },
+        {
+            "day_headline": "Day 8 DUBROVNIK DEPARTURE, Sunday (B)",
+            "day_summary": "Disembark after breakfast."
+        },
+        {
+            "legend": "B-Breakfast, L-Lunch. D-Dinner, WR-Welcome Reception, CD-Captain’s dinner, T-Tasting"
+        }
+    ],
+    "dates_pricing" : [
+        {
+            "name" : "PRINCESS, ALOHA",
+            "dates" : {
+                "low_season" : ["05/08/2022","05/15/2022","10/02/2022","10/09/2022"],
+                "mid_season" : ["05/22/2022","05/29/2022","07/24/2022","07/31/2022","08/07/2022","08/14/2022","08/21/2022","09/25/2022"],
+                "high_season" : ["06/05/2022","06/12/2022","06/19/2022","06/26/2022","07/03/2022","07/10/2022","07/17/2022","08/28/2022","09/04/2022","09/11/2022","09/18/2022"]
+            },
+            "prices" : [
+                {
+                    "cabin_name" : "LOWER DECK CABIN",
+                    "low_season" : 1320,
+                    "mid_season" : 1560,
+                    "high_season" : 1680
+                },
+                {
+                    "cabin_name" : "MAIN DECK CABIN",
+                    "low_season" : 1440,
+                    "mid_season" : 1740,
+                    "high_season" : 1920
+                }
+            ]
+        }
+    ],
+    "map" : "https://kompas.net/images/adriatic_cruises/K245/map.png",
+    "gallery" : ["https://kompas.net/images/adriatic_cruises/K245/1 (1).png","https://kompas.net/images/adriatic_cruises/K245/1 (2).png","https://kompas.net/images/adriatic_cruises/K245/1 (3).png","https://kompas.net/images/adriatic_cruises/K245/1 (4).png","https://kompas.net/images/adriatic_cruises/K245/1 (5).png"]
+}
+    ]
+}

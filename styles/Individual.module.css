@@ -1,0 +1,48 @@
+.container {
+    background-color: #0E1A32;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding:0 10rem;
+    margin-bottom:5rem;
+}
+.content h2 {
+    font-weight: 400;
+}
+.sections {
+    display: flex;
+    flex-grow: 1;
+}
+.sections_navigation {
+    color:white;
+    padding:2rem;
+    padding-left:0;
+    padding-top:0;
+}
+.sections_navigation h2 {
+    margin-top:0;
+    padding:0.3rem 1rem;
+}
+
+.sections_navigation h2:hover {
+    cursor: pointer;
+}
+
+.lighter {
+    background-color: #1D3565;
+    padding:1rem;
+}
+.nav_active {
+    background-color:white;
+    color: #0E1A32;
+}
+.sections_content {
+    border:1px solid white;
+    color:white;
+    width:60rem;
+    padding:2rem;
+    overflow-y: scroll;
+} 
+

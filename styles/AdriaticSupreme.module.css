@@ -1,0 +1,116 @@
+.container {
+    display: flex;
+    flex-direction: column;
+  }
+  .header {
+    background-color: #182C53;
+    color: white;
+    padding: auto 10rem;
+  }
+  .header_content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:5rem;
+    justify-content: center;
+  }
+  .header_content p {
+    max-width: 50rem;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  .header_content h1 {
+      font-size:3rem;
+  }
+
+  .images {
+    display: flex;
+    flex-direction: row;
+    background-color: #0E1A32;
+    max-height:29.5rem;
+    height: 29.5rem;
+  }
+  
+  .images img {
+    width: 29.5rem;
+    height:29.5rem;
+  }
+  
+  .header img {
+   
+  }
+  
+  .services {
+    background-color: #0A3D62;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+    gap:3rem 0;
+    padding:10rem 10rem;
+  }
+  
+  .service_type {
+    margin:2rem 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .service_type .service_images {
+    display: flex;
+    align-items: center;
+  }
+  
+  .service_type img {
+    padding:4rem;
+  }
+  .service_type p {
+    max-width: 70rem;
+    font-size: 1.5rem;
+  }
+
+  .service_type h1 {
+      font-size: 3rem;
+  }
+  
+  .service_type a {
+    padding:0.6rem 3rem;
+    margin-top:2rem;
+    border: 1px solid white;
+  }
+  
+  .service_type a:hover {
+    background-color: white;
+    color: #0E1A32;
+  }
+
+  .service {
+      border: 1px solid white;
+      width:25rem;
+      height:15rem;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      background-blend-mode: overlay;
+      justify-items: space-between;
+      padding:1rem;
+  }
+  .service a {
+      border:1px solid white;
+      padding:0.6rem 2rem;
+      align-self: flex-end;
+      justify-self: flex-end;
+      margin-top:5rem;
+  }
+
+  .service a:hover {
+      background-color: white;
+      color: #0E1A32;
+  }
+  .service p {
+      font-size:1.3rem;
+  }
